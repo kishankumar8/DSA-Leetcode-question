@@ -1,2 +1,2 @@
 # leetcode-question
-upload all question of leetcode 
+upload all question of leetcode .
