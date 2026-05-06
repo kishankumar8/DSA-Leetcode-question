@@ -3,5 +3,5 @@
 
 upload all  the solved questions of leetcode.
 
-# easy and logic based
+# easy and logic based question.
 -> two sum 
