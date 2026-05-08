@@ -7,4 +7,4 @@ upload all  the solved questions of leetcode.
 # easy and logic based question.
 
 
--> two sum (using array traversing amd hashmp)
+-> two sum (using array traversing and hashmp)
