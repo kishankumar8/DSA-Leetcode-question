@@ -2,8 +2,8 @@ class Solution(object):
     def twoSum(self, nums, target):
          hashmap={}
          for i in range(len(nums)):
-                compliment=target-nums[i]
+                complement=target-nums[i]
                 
-                if compliment in hashmap:
-                    return [hashmap[compliment], i]
+                if complement in hashmap:
+                    return [hashmap[complement], i]
                 hashmap[nums[i]] = i
