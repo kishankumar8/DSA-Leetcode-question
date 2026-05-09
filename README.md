@@ -4,7 +4,7 @@
 upload all  the solved questions of leetcode.
 
 
-# Easy and ogic based question.
+# Easy and Logic based question.
 
 
 -> two sum (using array traversing and hashmap).
