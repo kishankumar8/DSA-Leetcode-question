@@ -9,5 +9,5 @@ upload all  the solved questions of leetcode.
 
 -> two sum (using array traversing and hashmap) .
 
--> find most repeated element .
+-> find the  most repeated element .
 
