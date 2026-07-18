@@ -1,4 +1,4 @@
-   :rtype: int
+   :rtype
    
         h1,m1,s1=map(int,startTime.split(":"))
         h2,m2,s2=map(int,endTime.split(":"))
