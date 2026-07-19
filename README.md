@@ -9,4 +9,4 @@ upload all  the solved questions of leetcode.
 
  two sum (using array traversing and hashmap) .
 
- the  most  major
+ the  most  ma
