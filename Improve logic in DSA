@@ -1,3 +1,215 @@
 # Improve Logic in DSA .
 
 
+Here are the best tips that actually help improve DSA logic.
+
+1. Understand the problem first (Don't code immediately)
+
+Whenever you see a problem, ask yourself:
+
+What is the input?
+What is the expected output?
+What are the constraints?
+Can I solve it manually?
+
+Example:
+
+nums = [2,7,11,15]
+target = 9
+
+Output = [0,1]
+
+Before coding, solve it with your brain.
+
+2 + 7 = 9 ✅
+Answer = [0,1]
+
+If you can't solve it manually, coding will be much harder.
+
+2. Dry run every problem
+
+Take paper and pen.
+
+Example:
+
+arr = [3,1,4,2]
+Find maximum
+
+Dry run:
+
+max = 3
+
+1 > 3 ? No
+
+4 > 3 ? Yes
+max = 4
+
+2 > 4 ? No
+
+Answer = 4
+
+If you practice dry runs regularly, your logic improves much faster.
+
+3. Always think of the brute-force solution first
+
+Don't jump to the optimal solution.
+
+Example:
+
+Find duplicates.
+
+Think:
+
+Brute Force
+
+Compare every element with every other element.
+
+Then ask:
+
+Can I make it faster?
+
+Maybe using:
+
+HashMap
+Set
+Sorting
+Two Pointers
+
+This is exactly how interviewers expect you to think.
+
+4. Learn patterns instead of questions
+
+Thousands of problems are built on a few common patterns.
+
+Common patterns include:
+
+Linear Traversal
+Two Pointers
+Sliding Window
+Prefix Sum
+Binary Search
+Hashing
+Stack
+Queue
+Greedy
+Backtracking
+Dynamic Programming
+
+Once you recognize the pattern, many problems become much easier.
+
+5. Ask "Why?" after every line of code
+
+Instead of memorizing:
+
+count++;
+
+Ask:
+
+Why am I increasing count here?
+
+Instead of:
+
+left++;
+
+Ask:
+
+Why move the left pointer and not the right one?
+
+Understanding the reason behind each step builds real problem-solving skills.
+
+6. Solve one problem in multiple ways
+
+Example:
+
+Find the maximum element.
+
+Method 1
+
+Brute Force
+
+Method 2
+
+Single traversal
+
+Compare:
+
+Time Complexity
+Space Complexity
+Which is simpler?
+Which is better?
+7. Read code only after trying yourself
+
+Even if you're stuck, spend 20–30 minutes thinking first.
+
+After seeing the solution:
+
+Close it.
+Try writing it again from memory.
+Explain it aloud as if you're teaching someone.
+
+This helps you retain the logic.
+
+8. Keep asking "What if?"
+
+Example:
+
+Reverse an array.
+
+Then ask:
+
+What if array size = 1?
+What if array is empty?
+What if all elements are the same?
+What if it's already reversed?
+
+Thinking about edge cases strengthens your reasoning.
+
+9. Write the algorithm before coding
+
+Example:
+
+Step 1:
+Take first element as maximum
+
+Step 2:
+Traverse array
+
+Step 3:
+If current > maximum
+Update maximum
+
+Step 4:
+Return maximum
+
+Now convert these steps into code.
+
+This reduces coding mistakes.
+
+10. Solve consistently
+
+A good target for placement prep is:
+
+1 Easy problem every day
+1 Medium problem every day
+Review previous problems every weekend
+
+Quality matters more than quantity. Solving 2 problems deeply is often better than rushing through 10.
+
+A simple formula to follow for every DSA problem
+Read Problem
+      ↓
+Understand Input & Output
+      ↓
+Solve Manually
+      ↓
+Think Brute Force
+      ↓
+Dry Run
+      ↓
+Code
+      ↓
+Optimize
+      ↓
+Analyze Time & Space Complexity
+      ↓
+Practice Similar Problems
