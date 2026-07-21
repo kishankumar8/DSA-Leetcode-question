@@ -4,5 +4,5 @@
 upload all  the solved questions of leetcode.
 
 
-# Easy and Logic based question.
+# Easy and Logic based questi
  two sum (using array traversing and has
