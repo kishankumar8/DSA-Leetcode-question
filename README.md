@@ -5,4 +5,4 @@ upload all  the solved questions of leetcode.
 
 
 # Easy and Logic based questi
- two sum (using array traversing
+ two sum (using array traversin
