@@ -2,7 +2,5 @@
 
 
 upload all  the solved questions of leetcode.
-
-
 # Easy and Logic based questi
- two sum (using array traver
+ two sum (using array trav
