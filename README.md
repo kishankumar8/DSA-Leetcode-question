@@ -6,4 +6,4 @@ upload all  the solved questions of leetcode.
 
 
 # Easy and Logic based questi
- two sum (using array
+ two sum (using arr
