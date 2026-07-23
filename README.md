@@ -5,4 +5,4 @@ upload all  the solved questions of leetcode.
 
 
 # Easy and Logic based questi
- two s
+ two 
