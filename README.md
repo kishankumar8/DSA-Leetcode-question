@@ -3,6 +3,4 @@
 upload all  the solved questions of leetcode.
 
 
-
-# Easy and Logic based qu
- 
+# Easy and Logic based q
