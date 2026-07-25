@@ -1,7 +1,7 @@
 # 🤖 Use of DSA in Artificial Intelligence (AI)
 
-Data Structures and Algorithms (DSA) play a very important role in the field of Artificial Intelligence and Machine Learning 🚀.
-AI systems work with huge amounts of data, and DSA helps process that data efficiently and intelligently.
+-> Data Structures and Algorithms (DSA) play a very important role in the field of Artificial Intelligence and Machine Learning 🚀.
+-> AI systems work with huge amounts of data, and DSA helps process that data efficiently and intelligently.
 
 ---
 
