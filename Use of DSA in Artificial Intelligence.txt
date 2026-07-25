@@ -7,7 +7,7 @@
 
 # 🌟 Why DSA is Important in AI?
 
-AI is not only about training models.
+-> AI is not only about training models.
 
 Behind every smart AI application, strong DSA concepts are used for:
 
