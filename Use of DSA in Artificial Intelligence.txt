@@ -9,7 +9,7 @@
 
 -> AI is not only about training models.
 
-Behind every smart AI application, strong DSA concepts are used for:
+-> Behind every smart AI application, strong DSA concepts are used for:
 
 * Faster processing ⚡
 * Efficient data handling 📊
