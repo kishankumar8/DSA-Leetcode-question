@@ -1,5 +1,5 @@
 class Solution(object):
-    def twoSum(self, nums, tar
+    def twoSum(self, nums, 
          hashmap={}
          for i in range(len(nums)):
                 complement=target-nums[i]
