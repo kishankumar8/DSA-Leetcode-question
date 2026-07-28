@@ -1,5 +1,5 @@
 class Solution(object):
-    def 
+    d
          hashmap={}
          for i in range(len(nums)):
                 complement=target-nums[i]
