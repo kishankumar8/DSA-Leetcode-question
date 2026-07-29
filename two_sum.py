@@ -1,4 +1,4 @@
-class Solution
+class Soluti
          hashmap={}
          for i in range(len(nums)):
                 complement=target-nums[i]
