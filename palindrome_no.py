@@ -2,7 +2,7 @@ class Solution(object):
     def isPalindrome(self
         
         :ty
-        :rtype:
+        :rtyp
         if x<0:
             return False
 
