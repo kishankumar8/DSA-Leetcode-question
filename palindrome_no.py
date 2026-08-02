@@ -1,7 +1,7 @@
 class Solution(object):
     def isPalindrome(sel
 
-        
+
         if x<0:
             return False
 
