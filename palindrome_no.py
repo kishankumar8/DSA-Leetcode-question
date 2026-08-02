@@ -1,5 +1,5 @@
 class Solution(object):
-    def isPalindrome(sel
+    def isPalindrome(s
 
 
         if x<0:
