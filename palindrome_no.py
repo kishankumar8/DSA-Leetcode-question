@@ -1,5 +1,5 @@
 class Solution(object):
-    def i
+    def
         if x<0:
             return False
 
