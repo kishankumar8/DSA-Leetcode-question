@@ -1,5 +1,5 @@
 class Solution(object):
-    def isPalindr
+    def isPali
 
         if x<0:
             return False
