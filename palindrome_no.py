@@ -1,5 +1,5 @@
 class Solution(object):
-    d
+
         if x<0:
             return False
 
