@@ -1,5 +1,5 @@
 class Solution(object):
-    def isPa
+    def is
 
         if x<0:
             return False
