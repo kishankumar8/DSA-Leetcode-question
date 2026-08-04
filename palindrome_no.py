@@ -1,4 +1,4 @@
-class Solution(objec
+class Solution(obj
         if x<0:
             return False
 
