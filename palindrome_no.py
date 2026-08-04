@@ -1,4 +1,4 @@
-class Solution(
+class Solution
         if x<0:
             return False
 
