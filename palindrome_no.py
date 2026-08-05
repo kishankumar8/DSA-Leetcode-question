@@ -1,4 +1,4 @@
-class Solut
+class Solu
         if x<0:
             return False
 
