@@ -1,4 +1,4 @@
-class So
+class S
         if x<0:
             return False
 
