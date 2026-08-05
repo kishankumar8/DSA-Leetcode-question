@@ -1,4 +1,4 @@
-class Solution
+class Soluti
         if x<0:
             return False
 
