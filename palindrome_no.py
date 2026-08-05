@@ -1,4 +1,4 @@
-class Sol
+class So
         if x<0:
             return False
 
