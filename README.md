@@ -3,7 +3,7 @@
 upload all  the solved questions of leetcode  .
 
 
-# ARRAY
+# ARR
 
 
 # DSA-Patterns-Roadmap .
